@@ -5,4 +5,3 @@ public class VisaPlatium {
         System.out.println("Visa plat");
     }
 }
-gi
